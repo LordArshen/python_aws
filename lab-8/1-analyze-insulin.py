@@ -25,7 +25,7 @@ number_of_characters = len(data)
 print('Number of characters in text file :', number_of_characters)
 
 
-
+data.close()
 out.close()
 
 
